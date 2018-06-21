@@ -1,0 +1,157 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+Invalid matrix order at line 2: "-6"
+----------------
+Invalid matrix order at line 3: "8 4 3 2 6 4 "
+----------------
+Invalid matrix order at line 4: "4 5 3 2 5 7 "
+----------------
+Invalid matrix order at line 5: "9 5 7 3 3 4 "
+----------------
+Invalid matrix order at line 6: "2 3 4 5 1 2 "
+----------------
+Invalid matrix order at line 7: "6 2 3 3 5 6 "
+----------------
+Invalid matrix order at line 8: "5 3 4 -2 6 0 "
+----------------
+
+Order 6
+
+8 4 3 2 6 4 
+4 5 3 2 5 7 
+9 5 7 3 3 4 
+2 3 4 5 1 2 
+6 2 3 3 5 6 
+5 3 4 -2 6 0 
+
+Determinant = -11016.0
+
+Execution Time: 15116 microseconds
+----------------
+Invalid matrix order at line 16: "-1"
+----------------
+Invalid matrix size at line 17: "7". Order must be between 1 and 6 (inclusive).
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 51 microseconds
+----------------
+Invalid matrix order at line 20: "-2"
+----------------
+Invalid matrix order at line 21: "3 5"
+----------------
+Invalid matrix order at line 22: "3 6"
+----------------
+
+Order 2
+
+3 5 
+3 6 
+
+Determinant = 3.0
+
+Execution Time: 30 microseconds
+----------------
+Invalid matrix order at line 26: "-3"
+----------------
+Invalid matrix order at line 27: "5 -6 4 "
+----------------
+Invalid matrix order at line 28: "-3 6 9 "
+----------------
+Invalid matrix order at line 29: "-5 6 8 "
+----------------
+
+Order 3
+
+5 -6 4 
+-3 6 9 
+-5 6 8 
+
+Determinant = 144.0
+
+Execution Time: 42 microseconds
+----------------
+Invalid matrix order at line 34: "-4"
+----------------
+Invalid matrix order at line 35: "5 6 8 9 "
+----------------
+Invalid matrix order at line 36: "0 7 3 6 "
+----------------
+Invalid matrix order at line 37: "0 0 3 9 "
+----------------
+Invalid matrix order at line 38: "0 0 0 4 "
+----------------
+
+Order 4
+
+5 6 8 9 
+0 7 3 6 
+0 0 3 9 
+0 0 0 4 
+
+Determinant = 420.0
+
+Execution Time: 139 microseconds
+----------------
+Invalid matrix order at line 44: "-5"
+----------------
+Invalid matrix order at line 45: "4 7 6 0 2 "
+----------------
+Invalid matrix order at line 46: "0 6 0 0 4"
+----------------
+Invalid matrix order at line 47: "0 0 9 0 5"
+----------------
+Invalid matrix order at line 48: "0 0 0 9 6"
+----------------
+Invalid matrix order at line 49: "2 3 4 7 6"
+----------------
+
+Order 5
+
+4 7 6 0 2 
+0 6 0 0 4 
+0 0 9 0 5 
+0 0 0 9 6 
+2 3 4 7 6 
+
+Determinant = 216.0
+
+Execution Time: 185 microseconds
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 6
+Number of Order 1 Matrices: 1
+Number of Order 2 Matrices: 1
+Number of Order 3 Matrices: 1
+Number of Order 4 Matrices: 1
+Number of Order 5 Matrices: 1
+Number of Order 6 Matrices: 1
+
+Percentage of Order 1 Matrices: 16.666666%
+Percentage of Order 2 Matrices: 16.666666%
+Percentage of Order 3 Matrices: 16.666666%
+Percentage of Order 4 Matrices: 16.666666%
+Percentage of Order 5 Matrices: 16.666666%
+Percentage of Order 6 Matrices: 16.666666%
+
+Average Runtime of Order 1 Matrices: 51 microseconds
+Average Runtime of Order 2 Matrices: 30 microseconds
+Average Runtime of Order 3 Matrices: 42 microseconds
+Average Runtime of Order 4 Matrices: 139 microseconds
+Average Runtime of Order 5 Matrices: 185 microseconds
+Average Runtime of Order 6 Matrices: 15116 microseconds
+
+
+Total Number of Lines Read in the Input File: 55
+
+Total Execution Time of the Program: 15563 microseconds

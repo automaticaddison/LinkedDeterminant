@@ -1,0 +1,126 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 5786 microseconds
+----------------
+
+Order 2
+
+2 3 
+5 9 
+
+Determinant = 3.0
+
+Execution Time: 43 microseconds
+----------------
+
+Order 3
+
+3 -2 4 
+-1 5 2 
+-3 6 4 
+
+Determinant = 64.0
+
+Execution Time: 64 microseconds
+----------------
+
+Order 4
+
+2 4 5 6 
+0 3 6 9 
+0 0 9 8 
+0 0 0 5 
+
+Determinant = 270.0
+
+Execution Time: 418 microseconds
+----------------
+
+Order 4
+
+2 4 5 6 
+0 0 0 0 
+0 0 9 8 
+0 0 0 5 
+
+Determinant = 0.0
+
+Execution Time: 209 microseconds
+----------------
+
+Order 4
+
+2 0 0 0 
+0 3 0 0 
+0 0 9 0 
+0 0 0 5 
+
+Determinant = 270.0
+
+Execution Time: 224 microseconds
+----------------
+
+Order 4
+
+2 4 0 6 
+1 3 0 0 
+4 0 0 8 
+2 5 0 5 
+
+Determinant = 0.0
+
+Execution Time: 210 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 1990 microseconds
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 8
+Number of Order 1 Matrices: 1
+Number of Order 2 Matrices: 1
+Number of Order 3 Matrices: 1
+Number of Order 4 Matrices: 4
+Number of Order 5 Matrices: 0
+Number of Order 6 Matrices: 1
+
+Percentage of Order 1 Matrices: 12.5%
+Percentage of Order 2 Matrices: 12.5%
+Percentage of Order 3 Matrices: 12.5%
+Percentage of Order 4 Matrices: 50.0%
+Percentage of Order 5 Matrices: 0.0%
+Percentage of Order 6 Matrices: 12.5%
+
+Average Runtime of Order 1 Matrices: 5786 microseconds
+Average Runtime of Order 2 Matrices: 43 microseconds
+Average Runtime of Order 3 Matrices: 64 microseconds
+Average Runtime of Order 4 Matrices: 265 microseconds
+There were no Order 5 Matrices
+Average Runtime of Order 6 Matrices: 1990 microseconds
+
+
+Total Number of Lines Read in the Input File: 36
+
+Total Execution Time of the Program: 8944 microseconds

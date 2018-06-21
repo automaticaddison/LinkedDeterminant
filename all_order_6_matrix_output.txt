@@ -1,0 +1,1434 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+
+Order 6
+
+8 4 3 2 6 4 
+4 5 3 2 5 7 
+9 5 7 3 3 4 
+2 3 4 5 1 2 
+6 2 3 3 5 6 
+5 3 4 -2 6 0 
+
+Determinant = -11016.0
+
+Execution Time: 13511 microseconds
+----------------
+
+Order 6
+
+3 4 6 4 6 4 
+7 2 4 9 5 4 
+3 8 3 7 3 3 
+3 4 3 3 6 5 
+4 9 8 5 3 3 
+1 3 8 1 4 6 
+
+Determinant = 12609.0
+
+Execution Time: 4314 microseconds
+----------------
+
+Order 6
+
+9 9 9 9 9 9 
+1 3 8 1 4 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+1 3 8 1 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 740 microseconds
+----------------
+
+Order 6
+
+2 4 6 1 5 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+1 3 8 1 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 5180 microseconds
+----------------
+
+Order 6
+
+3 4 4 5 6 7 
+1 3 8 1 4 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+1 3 8 1 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 493 microseconds
+----------------
+
+Order 6
+
+7 4 6 3 5 7 
+1 2 3 4 5 6 
+1 3 8 1 4 6 
+3 2 3 2 3 2 
+1 3 8 1 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 4118 microseconds
+----------------
+
+Order 6
+
+6 4 7 3 6 1 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 618 microseconds
+----------------
+
+Order 6
+
+6 4 5 5 5 4 
+1 3 8 1 4 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 527 microseconds
+----------------
+
+Order 6
+
+8 4 3 6 4 2 
+1 2 3 4 5 6 
+8 4 3 6 4 2 
+1 3 8 1 4 6 
+4 6 4 6 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 502 microseconds
+----------------
+
+Order 6
+
+9 5 3 5 2 8 
+1 2 3 4 5 6 
+8 4 3 6 4 2 
+4 7 4 2 3 2 
+4 6 4 6 4 6 
+1 1 3 1 2 7 
+
+Determinant = 5494.0
+
+Execution Time: 512 microseconds
+----------------
+
+Order 6
+
+8 5 9 9 5 8 
+9 3 8 1 4 6 
+6 7 4 3 6 5 
+3 2 3 2 3 2 
+9 3 8 1 4 6 
+9 3 8 1 4 6 
+
+Determinant = 0.0
+
+Execution Time: 440 microseconds
+----------------
+
+Order 6
+
+9 5 3 5 2 8 
+1 2 3 4 5 6 
+9 3 8 1 4 6 
+9 5 3 2 5 8 
+9 5 3 2 5 8 
+9 3 8 1 4 6 
+
+Determinant = 0.0
+
+Execution Time: 398 microseconds
+----------------
+
+Order 6
+
+9 4 3 6 3 8 
+1 5 7 3 7 6 
+9 5 3 2 5 8 
+4 7 4 2 3 2 
+4 6 4 6 4 6 
+1 1 3 1 2 7 
+
+Determinant = -11304.0
+
+Execution Time: 413 microseconds
+----------------
+
+Order 6
+
+9 5 4 6 3 8 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+9 3 8 1 4 6 
+4 6 4 6 4 6 
+9 3 8 1 4 6 
+
+Determinant = 0.0
+
+Execution Time: 370 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+9 5 3 2 5 8 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+9 3 8 1 4 6 
+
+Determinant = 0.0
+
+Execution Time: 399 microseconds
+----------------
+
+Order 6
+
+9 5 3 6 3 8 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+9 5 3 2 5 8 
+
+Determinant = 0.0
+
+Execution Time: 5791 microseconds
+----------------
+
+Order 6
+
+4 7 4 2 3 2 
+4 6 4 6 4 6 
+1 1 3 1 2 7 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 3 1 1 2 1 
+
+Determinant = 0.0
+
+Execution Time: 383 microseconds
+----------------
+
+Order 6
+
+9 9 9 9 9 9 
+4 6 4 6 4 6 
+6 5 4 3 2 1 
+4 7 4 2 3 2 
+4 6 4 6 4 6 
+1 1 3 1 2 7 
+
+Determinant = 0.0
+
+Execution Time: 387 microseconds
+----------------
+
+Order 6
+
+9 8 8 8 9 9 
+1 6 7 4 5 6 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 3 1 1 2 1 
+1 3 1 6 1 1 
+
+Determinant = 540.0
+
+Execution Time: 444 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 7 7 7 7 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 4 5 6 8 4 
+
+Determinant = 0.0
+
+Execution Time: 369 microseconds
+----------------
+
+Order 6
+
+1 2 7 7 7 7 
+1 2 3 4 5 6 
+1 2 7 7 7 7 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 3 1 1 2 1 
+
+Determinant = 0.0
+
+Execution Time: 568 microseconds
+----------------
+
+Order 6
+
+5 3 6 4 6 4 
+1 2 3 4 5 6 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 3 1 1 2 1 
+1 4 5 6 8 4 
+
+Determinant = -160.0
+
+Execution Time: 416 microseconds
+----------------
+
+Order 6
+
+5 3 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 4 5 6 8 4 
+
+Determinant = 0.0
+
+Execution Time: 388 microseconds
+----------------
+
+Order 6
+
+7 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+5 5 5 5 5 5 
+
+Determinant = 0.0
+
+Execution Time: 392 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 7 8 9 7 6 
+1 4 5 6 8 4 
+
+Determinant = 0.0
+
+Execution Time: 453 microseconds
+----------------
+
+Order 6
+
+1 2 7 9 7 7 
+1 2 3 8 5 6 
+5 5 4 5 2 1 
+4 7 8 9 7 6 
+4 7 8 9 7 6 
+4 7 8 9 7 6 
+
+Determinant = 0.0
+
+Execution Time: 467 microseconds
+----------------
+
+Order 6
+
+1 2 7 7 7 7 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 1 1 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 390 microseconds
+----------------
+
+Order 6
+
+6 4 4 3 5 6 
+5 5 3 4 3 4 
+5 5 3 4 3 4 
+5 5 3 4 3 4 
+5 5 3 4 3 4 
+5 5 3 4 3 4 
+
+Determinant = 0.0
+
+Execution Time: 387 microseconds
+----------------
+
+Order 6
+
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+9 9 9 9 9 9 
+
+Determinant = 0.0
+
+Execution Time: 355 microseconds
+----------------
+
+Order 6
+
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+6 4 6 7 3 4 
+5 5 5 5 5 5 
+5 2 3 4 5 5 
+8 6 4 3 12 6 
+
+Determinant = 0.0
+
+Execution Time: 368 microseconds
+----------------
+
+Order 6
+
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+9 9 9 9 9 9 
+9 9 9 9 9 9 
+9 9 9 9 9 9 
+9 9 9 9 9 9 
+
+Determinant = 0.0
+
+Execution Time: 355 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 25 3 4 5 6 
+6 5 4 3 2 1 
+3 2 35 2 3 2 
+4 6 4 6 4 6 
+1 5 6 6 7 4 
+
+Determinant = 294400.0
+
+Execution Time: 403 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 6 4 5 6 
+6 5 46 3 2 1 
+3 2 4 4 5 3 
+7 9 4 7 5 7 
+8 8 8 8 8 8 
+
+Determinant = -2880.0
+
+Execution Time: 393 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+8 8 8 8 8 8 
+
+Determinant = 0.0
+
+Execution Time: 380 microseconds
+----------------
+
+Order 6
+
+6 4 9 4 6 4 
+1 2 9 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+8 8 8 8 8 8 
+
+Determinant = 0.0
+
+Execution Time: 338 microseconds
+----------------
+
+Order 6
+
+0 0 0 4 6 4 
+1 2 3 4 5 6 
+6 5 0 0 2 1 
+3 2 3 0 3 2 
+4 0 4 0 4 6 
+1 0 0 0 8 4 
+
+Determinant = -5344.0
+
+Execution Time: 384 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 0 4 5 6 
+6 5 0 3 2 1 
+3 2 5 2 9 2 
+4 6 4 6 4 6 
+8 8 4 8 4 8 
+
+Determinant = 0.0
+
+Execution Time: 367 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+9 2 5 6 5 6 
+9 5 4 3 2 1 
+9 2 3 2 3 2 
+9 6 4 6 4 6 
+9 8 8 8 8 8 
+
+Determinant = 0.0
+
+Execution Time: 351 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+5 2 3 4 5 6 
+6 7 8 8 8 8 
+4 4 4 5 5 6 
+4 -6 3 3 2 5 
+8 7 8 8 7 7 
+
+Determinant = -180.0
+
+Execution Time: 400 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+6 7 8 8 8 8 
+6 5 4 3 2 1 
+6 7 8 8 8 8 
+4 6 4 6 4 6 
+4 -6 3 3 2 5 
+
+Determinant = 0.0
+
+Execution Time: 415 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+6 7 8 8 8 8 
+6 7 8 8 8 8 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 4 5 6 8 4 
+
+Determinant = 0.0
+
+Execution Time: 412 microseconds
+----------------
+
+Order 6
+
+6 7 8 8 8 8 
+6 7 8 8 8 8 
+6 7 8 8 8 8 
+6 7 8 8 8 8 
+6 7 8 8 8 8 
+6 7 8 8 8 8 
+
+Determinant = 0.0
+
+Execution Time: 345 microseconds
+----------------
+
+Order 6
+
+5 2 3 4 5 6 
+6 7 8 8 8 8 
+6 5 4 3 2 1 
+5 2 3 4 5 6 
+5 2 3 4 5 6 
+5 2 3 4 5 6 
+
+Determinant = 0.0
+
+Execution Time: 414 microseconds
+----------------
+
+Order 6
+
+5 2 3 4 5 6 
+5 2 3 4 5 6 
+5 2 3 4 5 6 
+5 2 3 4 5 6 
+5 2 3 4 5 6 
+5 2 3 4 5 6 
+
+Determinant = 0.0
+
+Execution Time: 379 microseconds
+----------------
+
+Order 6
+
+4 8 4 6 9 6 
+4 8 4 6 9 6 
+4 8 4 6 9 6 
+4 8 4 6 9 6 
+4 8 4 6 9 6 
+4 8 4 6 9 6 
+
+Determinant = 0.0
+
+Execution Time: 487 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 8 3 4 5 6 
+6 8 8 3 2 1 
+3 8 8 9 3 2 
+4 8 4 6 9 6 
+1 8 8 1 1 9 
+
+Determinant = 8428.0
+
+Execution Time: 358 microseconds
+----------------
+
+Order 6
+
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+
+Determinant = 0.0
+
+Execution Time: 370 microseconds
+----------------
+
+Order 6
+
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+5 5 5 5 5 5 
+4 6 9 0 9 7 
+1 4 5 4 8 4 
+
+Determinant = 0.0
+
+Execution Time: 391 microseconds
+----------------
+
+Order 6
+
+5 5 5 5 5 5 
+1 2 3 4 5 6 
+5 5 5 5 5 5 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+5 5 5 5 5 5 
+
+Determinant = 0.0
+
+Execution Time: 652 microseconds
+----------------
+
+Order 6
+
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 5 4 3 2 1 
+5 5 5 5 5 5 
+4 6 4 6 4 6 
+5 5 5 5 5 5 
+
+Determinant = 0.0
+
+Execution Time: 440 microseconds
+----------------
+
+Order 6
+
+6 7 5 5 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+6 6 7 8 9 9 
+
+Determinant = 0.0
+
+Execution Time: 375 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+6 5 4 3 5 9 
+6 5 4 3 2 1 
+3 2 9 9 3 2 
+4 8 9 9 3 6 
+1 1 4 5 11 1 
+
+Determinant = -22092.0
+
+Execution Time: 403 microseconds
+----------------
+
+Order 6
+
+7 4 5 7 8 9 
+1 4 5 6 5 4 
+6 5 4 4 4 1 
+3 4 5 6 7 5 
+4 6 4 6 4 6 
+1 4 5 6 8 4 
+
+Determinant = -204.0
+
+Execution Time: 373 microseconds
+----------------
+
+Order 6
+
+1 5 7 4 6 4 
+13 2 5 4 5 6 
+3 5 -3 3 2 1 
+3 2 3 -2 3 2 
+4 6 4 6 -4 6 
+5 5 5 5 5 -5 
+
+Determinant = -245440.0
+
+Execution Time: 383 microseconds
+----------------
+
+Order 6
+
+5 4 4 4 4 5 
+5 4 4 4 4 5 
+5 4 4 4 4 5 
+5 4 4 4 4 5 
+5 4 4 4 4 5 
+5 4 4 4 4 5 
+
+Determinant = 0.0
+
+Execution Time: 403 microseconds
+----------------
+
+Order 6
+
+6 2 2 4 5 7 
+9 2 2 4 5 7 
+6 4 4 3 2 1 
+3 5 5 2 3 2 
+4 6 5 5 4 6 
+5 5 5 4 5 5 
+
+Determinant = 27.0
+
+Execution Time: 424 microseconds
+----------------
+
+Order 6
+
+7 2 8 -4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+5 5 5 5 5 5 
+
+Determinant = 0.0
+
+Execution Time: 401 microseconds
+----------------
+
+Order 6
+
+9 2 2 4 6 7 
+1 2 2 4 6 7 
+6 9 9 9 2 1 
+3 2 6 4 3 7 
+6 2 2 4 5 7 
+4 2 3 9 6 7 
+
+Determinant = 9760.0
+
+Execution Time: 389 microseconds
+----------------
+
+Order 6
+
+6 4 5 5 5 4 
+1 2 2 4 6 7 
+6 5 4 3 2 1 
+3 5 6 7 2 7 
+3 5 6 7 4 7 
+3 5 6 7 2 7 
+
+Determinant = 0.0
+
+Execution Time: 368 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+16 6 4 4 5 6 
+7 5 4 3 4 1 
+3 5 9 7 2 7 
+3 5 6 7 2 7 
+3 5 5 7 3 7 
+
+Determinant = 120.0
+
+Execution Time: 399 microseconds
+----------------
+
+Order 6
+
+6 4 4 24 5 4 
+7 2 3 4 4 6 
+6 2 2 4 2 1 
+3 8 8 8 7 2 
+3 5 6 7 2 7 
+5 3 5 4 5 5 
+
+Determinant = -21329.0
+
+Execution Time: 396 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+4 6 5 5 4 6 
+4 6 5 5 4 6 
+4 7 7 7 4 6 
+5 5 5 7 5 5 
+
+Determinant = 0.0
+
+Execution Time: 360 microseconds
+----------------
+
+Order 6
+
+4 6 5 5 4 6 
+4 6 5 5 4 6 
+4 6 5 5 4 6 
+3 4 4 5 5 5 
+3 4 4 5 5 5 
+5 5 5 5 5 5 
+
+Determinant = 0.0
+
+Execution Time: 375 microseconds
+----------------
+
+Order 6
+
+1 2 3 4 6 4 
+3 3 3 3 3 2 
+3 3 3 3 3 2 
+3 2 3 2 3 2 
+4 6 5 5 4 6 
+6 2 2 4 2 1 
+
+Determinant = 0.0
+
+Execution Time: 355 microseconds
+----------------
+
+Order 6
+
+6 4 4 6 6 7 
+1 2 6 7 8 6 
+6 5 4 5 4 1 
+3 3 3 3 3 2 
+4 5 6 7 6 7 
+6 2 2 4 2 1 
+
+Determinant = 508.0
+
+Execution Time: 389 microseconds
+----------------
+
+Order 6
+
+6 4 3 4 6 4 
+1 2 5 5 5 6 
+1 2 5 5 5 6 
+1 2 5 5 5 6 
+1 2 5 5 5 6 
+6 2 2 4 2 1 
+
+Determinant = 0.0
+
+Execution Time: 370 microseconds
+----------------
+
+Order 6
+
+6 9 9 9 6 4 
+1 2 5 5 5 6 
+6 5 4 5 6 3 
+3 6 4 6 6 7 
+4 4 5 5 4 4 
+6 5 5 5 5 5 
+
+Determinant = -490.0
+
+Execution Time: 382 microseconds
+----------------
+
+Order 6
+
+8 1 4 3 2 6 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+6 2 2 4 2 1 
+
+Determinant = 0.0
+
+Execution Time: 368 microseconds
+----------------
+
+Order 6
+
+8 1 4 3 2 6 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 1 1 4 1 1 
+
+Determinant = 0.0
+
+Execution Time: 373 microseconds
+----------------
+
+Order 6
+
+6 9 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+6 2 2 4 2 1 
+
+Determinant = 0.0
+
+Execution Time: 436 microseconds
+----------------
+
+Order 6
+
+8 1 4 3 2 6 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+6 2 2 4 2 1 
+
+Determinant = 0.0
+
+Execution Time: 377 microseconds
+----------------
+
+Order 6
+
+4 1 4 3 2 6 
+8 8 4 7 4 7 
+6 5 6 3 4 7 
+8 8 4 7 4 7 
+4 6 4 6 4 6 
+6 2 2 4 2 1 
+
+Determinant = 0.0
+
+Execution Time: 389 microseconds
+----------------
+
+Order 6
+
+3 6 6 15 6 4 
+8 8 4 7 4 7 
+9 3 9 8 8 8 
+6 6 7 5 5 5 
+7 7 8 6 6 6 
+3 9 3 1 1 1 
+
+Determinant = -594.0
+
+Execution Time: 383 microseconds
+----------------
+
+Order 6
+
+4 1 4 3 2 6 
+3 3 3 1 1 1 
+3 3 3 1 1 1 
+3 3 3 1 1 1 
+4 6 4 6 5 5 
+6 2 2 4 2 1 
+
+Determinant = 0.0
+
+Execution Time: 372 microseconds
+----------------
+
+Order 6
+
+6 2 2 4 2 1 
+6 2 2 4 2 1 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+4 1 4 3 2 6 
+
+Determinant = 0.0
+
+Execution Time: 369 microseconds
+----------------
+
+Order 6
+
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+8 1 4 3 2 6 
+
+Determinant = 0.0
+
+Execution Time: 362 microseconds
+----------------
+
+Order 6
+
+3 3 6 15 6 4 
+8 8 8 7 7 7 
+9 9 9 8 8 8 
+6 6 6 5 5 5 
+7 7 7 6 6 6 
+3 3 3 1 1 1 
+
+Determinant = 0.0
+
+Execution Time: 366 microseconds
+----------------
+
+Order 6
+
+8 1 4 3 2 6 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+8 1 4 3 2 6 
+4 6 4 6 4 6 
+8 1 4 3 2 6 
+
+Determinant = 0.0
+
+Execution Time: 383 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 5 2 5 6 
+6 -5 8 1 4 3 
+3 6 8 5 7 2 
+6 6 4 6 4 6 
+8 3 4 6 2 6 
+
+Determinant = 720.0
+
+Execution Time: 376 microseconds
+----------------
+
+Order 6
+
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+3 2 -3 2 3 2 
+4 5 4 6 4 6 
+1 1 -1 -1 3 2 
+
+Determinant = 0.0
+
+Execution Time: 355 microseconds
+----------------
+
+Order 6
+
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+4 5 4 6 4 6 
+4 5 4 6 4 6 
+4 5 4 6 4 6 
+9 1 0 1 1 9 
+
+Determinant = 0.0
+
+Execution Time: 362 microseconds
+----------------
+
+Order 6
+
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+3 3 6 15 6 4 
+3 2 3 2 3 2 
+3 3 6 15 6 4 
+9 1 0 1 1 9 
+
+Determinant = 0.0
+
+Execution Time: 348 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+4 1 2 4 1 9 
+
+Determinant = 0.0
+
+Execution Time: 344 microseconds
+----------------
+
+Order 6
+
+3 3 6 15 6 4 
+1 5 4 5 5 6 
+-1 26 6 4 6 3 
+3 2 3 2 3 2 
+4 6 4 3 4 4 
+1 1 9 1 5 7 
+
+Determinant = 30946.0
+
+Execution Time: 369 microseconds
+----------------
+
+Order 6
+
+4 7 5 5 5 6 
+9 7 5 5 5 6 
+4 7 5 5 5 6 
+9 7 5 5 5 6 
+4 7 7 3 4 5 
+1 5 4 4 6 1 
+
+Determinant = 0.0
+
+Execution Time: 332 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 1 5 5 2 1 
+1 1 5 5 2 1 
+1 1 5 5 2 1 
+4 7 5 5 5 6 
+1 6 1 7 1 1 
+
+Determinant = 0.0
+
+Execution Time: 325 microseconds
+----------------
+
+Order 6
+
+6 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+1 1 5 5 2 1 
+
+Determinant = 0.0
+
+Execution Time: 368 microseconds
+----------------
+
+Order 6
+
+5 5 5 7 7 6 
+6 3 4 5 5 5 
+6 6 7 7 7 1 
+3 4 4 5 5 2 
+2 3 3 6 5 3 
+3 4 4 5 5 2 
+
+Determinant = 0.0
+
+Execution Time: 325 microseconds
+----------------
+
+Order 6
+
+9 1 7 6 6 5 
+9 1 5 1 7 7 
+6 5 4 3 2 1 
+9 1 7 8 7 7 
+9 1 7 1 7 7 
+4 4 5 8 9 9 
+
+Determinant = -3962.0
+
+Execution Time: 374 microseconds
+----------------
+
+Order 6
+
+8 4 3 2 6 4 
+4 5 3 2 5 7 
+9 5 7 3 3 4 
+2 3 4 5 1 2 
+6 2 3 3 5 6 
+5 3 4 -2 6 0 
+
+Determinant = -11016.0
+
+Execution Time: 662 microseconds
+----------------
+
+Order 6
+
+4 4 6 4 6 4 
+5 4 3 4 6 9 
+7 5 4 3 2 1 
+3 4 3 4 6 9 
+5 9 4 6 9 6 
+9 1 7 1 7 7 
+
+Determinant = 3808.0
+
+Execution Time: 3623 microseconds
+----------------
+
+Order 6
+
+3 4 5 5 5 4 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+
+Determinant = 0.0
+
+Execution Time: 457 microseconds
+----------------
+
+Order 6
+
+6 4 3 4 6 9 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+5 9 4 6 9 6 
+
+Determinant = 0.0
+
+Execution Time: 432 microseconds
+----------------
+
+Order 6
+
+1 4 6 4 6 4 
+1 2 3 4 5 6 
+6 5 4 7 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+5 9 4 6 9 6 
+
+Determinant = 5200.0
+
+Execution Time: 448 microseconds
+----------------
+
+Order 6
+
+1 4 6 4 6 4 
+1 2 3 8 5 6 
+6 5 4 3 2 1 
+3 2 3 2 3 2 
+4 6 4 6 4 6 
+5 9 4 6 9 6 
+
+Determinant = 5200.0
+
+Execution Time: 493 microseconds
+----------------
+
+Order 6
+
+2 9 6 4 6 4 
+1 8 -3 4 5 6 
+6 5 3 3 2 1 
+-3 2 3 4 5 2 
+4 9 5 4 3 2 
+5 9 4 6 4 5 
+
+Determinant = 7786.0
+
+Execution Time: 448 microseconds
+----------------
+
+Order 6
+
+1 4 6 4 6 4 
+1 1 2 3 5 6 
+6 5 4 8 2 3 
+4 5 6 5 7 7 
+4 6 4 6 4 6 
+5 9 4 6 9 6 
+
+Determinant = 5680.0
+
+Execution Time: 433 microseconds
+----------------
+
+Order 6
+
+5 8 5 7 3 4 
+1 4 5 4 3 7 
+6 2 2 10 6 4 
+8 4 2 2 6 4 
+8 4 4 2 6 4 
+8 4 5 2 6 4 
+
+Determinant = 0.0
+
+Execution Time: 449 microseconds
+----------------
+
+Order 6
+
+6 2 63 42 4 8 
+1 3 7 6 4 6 
+6 5 4 3 5 3 
+7 8 7 4 2 6 
+7 6 4 6 4 6 
+9 1 0 1 1 9 
+
+Determinant = -319128.0
+
+Execution Time: 447 microseconds
+----------------
+
+Order 6
+
+8 4 3 2 6 4 
+4 5 3 2 5 7 
+9 5 7 3 3 4 
+2 3 4 5 1 2 
+6 2 3 3 5 6 
+5 3 4 -2 6 0 
+
+Determinant = -11016.0
+
+Execution Time: 448 microseconds
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 100
+Number of Order 1 Matrices: 0
+Number of Order 2 Matrices: 0
+Number of Order 3 Matrices: 0
+Number of Order 4 Matrices: 0
+Number of Order 5 Matrices: 0
+Number of Order 6 Matrices: 100
+
+Percentage of Order 1 Matrices: 0.0%
+Percentage of Order 2 Matrices: 0.0%
+Percentage of Order 3 Matrices: 0.0%
+Percentage of Order 4 Matrices: 0.0%
+Percentage of Order 5 Matrices: 0.0%
+Percentage of Order 6 Matrices: 100.0%
+
+There were no Order 1 Matrices
+There were no Order 2 Matrices
+There were no Order 3 Matrices
+There were no Order 4 Matrices
+There were no Order 5 Matrices
+Average Runtime of Order 6 Matrices: 750 microseconds
+
+
+Total Number of Lines Read in the Input File: 701
+
+Total Execution Time of the Program: 75068 microseconds

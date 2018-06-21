@@ -1,0 +1,934 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 58890 microseconds
+----------------
+
+Order 1
+
+9 
+
+Determinant = 9.0
+
+Execution Time: 37 microseconds
+----------------
+
+Order 1
+
+22 
+
+Determinant = 22.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+2 
+
+Determinant = 2.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+1 
+
+Determinant = 1.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+56 
+
+Determinant = 56.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+123 
+
+Determinant = 123.0
+
+Execution Time: 30 microseconds
+----------------
+
+Order 1
+
+3 
+
+Determinant = 3.0
+
+Execution Time: 30 microseconds
+----------------
+
+Order 1
+
+768 
+
+Determinant = 768.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+3 
+
+Determinant = 3.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+89 
+
+Determinant = 89.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+-21 
+
+Determinant = -21.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+85 
+
+Determinant = 85.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+3 
+
+Determinant = 3.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+53 
+
+Determinant = 53.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+8 
+
+Determinant = 8.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+3 
+
+Determinant = 3.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+9 
+
+Determinant = 9.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 35 microseconds
+----------------
+
+Order 1
+
+234 
+
+Determinant = 234.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+-923 
+
+Determinant = -923.0
+
+Execution Time: 29 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+345 
+
+Determinant = 345.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+55 
+
+Determinant = 55.0
+
+Execution Time: 44 microseconds
+----------------
+
+Order 1
+
+66 
+
+Determinant = 66.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+88 
+
+Determinant = 88.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+3 
+
+Determinant = 3.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+63 
+
+Determinant = 63.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+92 
+
+Determinant = 92.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+99 
+
+Determinant = 99.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+44 
+
+Determinant = 44.0
+
+Execution Time: 34 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+66 
+
+Determinant = 66.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+77 
+
+Determinant = 77.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+77 
+
+Determinant = 77.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+88 
+
+Determinant = 88.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+8 
+
+Determinant = 8.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+43 
+
+Determinant = 43.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+65 
+
+Determinant = 65.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+76 
+
+Determinant = 76.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 43 microseconds
+----------------
+
+Order 1
+
+3 
+
+Determinant = 3.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+8 
+
+Determinant = 8.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+33 
+
+Determinant = 33.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+88 
+
+Determinant = 88.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+88 
+
+Determinant = 88.0
+
+Execution Time: 26 microseconds
+----------------
+
+Order 1
+
+66 
+
+Determinant = 66.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+56 
+
+Determinant = 56.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+7 
+
+Determinant = 7.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+-23403 
+
+Determinant = -23403.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+7689 
+
+Determinant = 7689.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+-2 
+
+Determinant = -2.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 29 microseconds
+----------------
+
+Order 1
+
+64 
+
+Determinant = 64.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+-42 
+
+Determinant = -42.0
+
+Execution Time: 27 microseconds
+----------------
+
+Order 1
+
+56 
+
+Determinant = 56.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+94 
+
+Determinant = 94.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+65 
+
+Determinant = 65.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+4 
+
+Determinant = 4.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+3 
+
+Determinant = 3.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+6 
+
+Determinant = 6.0
+
+Execution Time: 23 microseconds
+----------------
+
+Order 1
+
+66 
+
+Determinant = 66.0
+
+Execution Time: 25 microseconds
+----------------
+
+Order 1
+
+5 
+
+Determinant = 5.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+77 
+
+Determinant = 77.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+77 
+
+Determinant = 77.0
+
+Execution Time: 28 microseconds
+----------------
+
+Order 1
+
+44 
+
+Determinant = 44.0
+
+Execution Time: 33 microseconds
+----------------
+
+Order 1
+
+55 
+
+Determinant = 55.0
+
+Execution Time: 24 microseconds
+----------------
+
+Order 1
+
+-32 
+
+Determinant = -32.0
+
+Execution Time: 27 microseconds
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 100
+Number of Order 1 Matrices: 100
+Number of Order 2 Matrices: 0
+Number of Order 3 Matrices: 0
+Number of Order 4 Matrices: 0
+Number of Order 5 Matrices: 0
+Number of Order 6 Matrices: 0
+
+Percentage of Order 1 Matrices: 100.0%
+Percentage of Order 2 Matrices: 0.0%
+Percentage of Order 3 Matrices: 0.0%
+Percentage of Order 4 Matrices: 0.0%
+Percentage of Order 5 Matrices: 0.0%
+Percentage of Order 6 Matrices: 0.0%
+
+Average Runtime of Order 1 Matrices: 615 microseconds
+There were no Order 2 Matrices
+There were no Order 3 Matrices
+There were no Order 4 Matrices
+There were no Order 5 Matrices
+There were no Order 6 Matrices
+
+
+Total Number of Lines Read in the Input File: 201
+
+Total Execution Time of the Program: 61516 microseconds

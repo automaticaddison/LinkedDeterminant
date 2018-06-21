@@ -1,0 +1,89 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+Invalid matrix value at line 3: "A D D I S O "
+----------------
+Invalid matrix order at line 4: "4 5 3 2 5 7 "
+----------------
+Invalid matrix order at line 5: "9 5 7 3 3 4 "
+----------------
+Invalid matrix order at line 6: "2 3 B 5 1 2 "
+----------------
+Invalid matrix order at line 7: "6 2 3 3 5 6 "
+----------------
+Invalid matrix order at line 8: "5 3 D -2 6 0 "
+----------------
+
+Order 5
+
+4 7 6 0 2 
+0 6 0 0 4 
+0 0 9 0 5 
+0 0 0 9 6 
+2 3 4 7 6 
+
+Determinant = 216.0
+
+Execution Time: 8881 microseconds
+----------------
+Invalid matrix value at line 17: "0 A 3 6 "
+----------------
+Invalid matrix order at line 18: "0 0 3 9 "
+----------------
+Invalid matrix order at line 19: "0 0 0 4 "
+----------------
+
+Order 3
+
+5 -6 4 
+-3 6 9 
+-5 6 8 
+
+Determinant = 144.0
+
+Execution Time: 55 microseconds
+----------------
+Invalid matrix value at line 25: "3 B"
+----------------
+Invalid matrix order at line 26: "3 6"
+----------------
+
+Order 1
+
+9 
+
+Determinant = 9.0
+
+Execution Time: 30 microseconds
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 3
+Number of Order 1 Matrices: 1
+Number of Order 2 Matrices: 0
+Number of Order 3 Matrices: 1
+Number of Order 4 Matrices: 0
+Number of Order 5 Matrices: 1
+Number of Order 6 Matrices: 0
+
+Percentage of Order 1 Matrices: 33.333332%
+Percentage of Order 2 Matrices: 0.0%
+Percentage of Order 3 Matrices: 33.333332%
+Percentage of Order 4 Matrices: 0.0%
+Percentage of Order 5 Matrices: 33.333332%
+Percentage of Order 6 Matrices: 0.0%
+
+Average Runtime of Order 1 Matrices: 30 microseconds
+There were no Order 2 Matrices
+Average Runtime of Order 3 Matrices: 55 microseconds
+There were no Order 4 Matrices
+Average Runtime of Order 5 Matrices: 8881 microseconds
+There were no Order 6 Matrices
+
+
+Total Number of Lines Read in the Input File: 28
+
+Total Execution Time of the Program: 8966 microseconds

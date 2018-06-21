@@ -1,0 +1,99 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+
+Order 6
+
+8 4 3 2 6 4 
+4 5 3 2 5 7 
+9 5 7 3 3 4 
+2 3 4 5 1 2 
+6 2 3 3 5 6 
+5 3 4 -2 6 0 
+
+Determinant = -11016.0
+
+Execution Time: 11114 microseconds
+----------------
+Invalid matrix order at line 9: "T"
+----------------
+Invalid matrix order at line 10: "4 7 6 0 2 "
+----------------
+Invalid matrix order at line 11: "0 6 0 0 4"
+----------------
+Invalid matrix order at line 12: "0 0 9 0 5"
+----------------
+Invalid matrix order at line 13: "0 0 0 9 6"
+----------------
+Invalid matrix order at line 14: "2 3 4 7 6"
+----------------
+
+Order 4
+
+5 6 8 9 
+0 7 3 6 
+0 0 3 9 
+0 0 0 4 
+
+Determinant = 420.0
+
+Execution Time: 123 microseconds
+----------------
+Invalid matrix order at line 20: "A"
+----------------
+Invalid matrix order at line 21: "5 -6 4 "
+----------------
+Invalid matrix order at line 22: "-3 6 9 "
+----------------
+Invalid matrix order at line 23: "-5 6 8 "
+----------------
+
+Order 2
+
+3 5 
+3 6 
+
+Determinant = 3.0
+
+Execution Time: 35 microseconds
+----------------
+
+Order 1
+
+9 
+
+Determinant = 9.0
+
+Execution Time: 33 microseconds
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 4
+Number of Order 1 Matrices: 1
+Number of Order 2 Matrices: 1
+Number of Order 3 Matrices: 0
+Number of Order 4 Matrices: 1
+Number of Order 5 Matrices: 0
+Number of Order 6 Matrices: 1
+
+Percentage of Order 1 Matrices: 25.0%
+Percentage of Order 2 Matrices: 25.0%
+Percentage of Order 3 Matrices: 0.0%
+Percentage of Order 4 Matrices: 25.0%
+Percentage of Order 5 Matrices: 0.0%
+Percentage of Order 6 Matrices: 25.0%
+
+Average Runtime of Order 1 Matrices: 33 microseconds
+Average Runtime of Order 2 Matrices: 35 microseconds
+There were no Order 3 Matrices
+Average Runtime of Order 4 Matrices: 123 microseconds
+There were no Order 5 Matrices
+Average Runtime of Order 6 Matrices: 11114 microseconds
+
+
+Total Number of Lines Read in the Input File: 28
+
+Total Execution Time of the Program: 11305 microseconds

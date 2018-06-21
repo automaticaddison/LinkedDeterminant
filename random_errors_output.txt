@@ -1,0 +1,80 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+Too many values for this order 1 matrix at line 3: "7 8"
+----------------
+Invalid matrix size at line 4: "9". Order must be between 1 and 6 (inclusive).
+----------------
+Invalid matrix order at line 5: "8 4 3 2 6 4 "
+----------------
+Invalid matrix order at line 6: "4 5   2 5 7 "
+----------------
+Invalid matrix order at line 7: "9 5 7 3 3 4 "
+----------------
+Invalid matrix order at line 8: "2 3 4 5 1 2 "
+----------------
+Invalid matrix order at line 9: "6 2 3 3 5 6 "
+----------------
+Invalid matrix order at line 10: "5 3 4 -2 6 0 "
+----------------
+Invalid matrix value at line 13: "0 P 0 0 4"
+----------------
+Invalid matrix order at line 14: "0 0 9 0 5"
+----------------
+Invalid matrix order at line 15: "0 0 0 9 6"
+----------------
+Invalid matrix order at line 16: "2 3 4 7 6"
+----------------
+Invalid matrix order at line 17: "G"
+----------------
+Invalid matrix order at line 18: "5 6 8 9 "
+----------------
+Invalid matrix order at line 19: "0 7 3 6 "
+----------------
+Invalid matrix order at line 20: "0 0 3 9 "
+----------------
+Invalid matrix order at line 21: "0 0 0 4 "
+----------------
+Invalid matrix size at line 22: "9". Order must be between 1 and 6 (inclusive).
+----------------
+Invalid matrix order at line 23: "5 -6 4 "
+----------------
+Invalid matrix order at line 24: "-3 6 9 "
+----------------
+Invalid matrix order at line 25: "-5 6 8 "
+----------------
+Not enough values for this order 2 matrix at line 29: "1"
+----------------
+Invalid matrix order at line 30: "9 6 8"
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 0
+Number of Order 1 Matrices: 0
+Number of Order 2 Matrices: 0
+Number of Order 3 Matrices: 0
+Number of Order 4 Matrices: 0
+Number of Order 5 Matrices: 0
+Number of Order 6 Matrices: 0
+
+Percentage of Order 1 Matrices: NaN%
+Percentage of Order 2 Matrices: NaN%
+Percentage of Order 3 Matrices: NaN%
+Percentage of Order 4 Matrices: NaN%
+Percentage of Order 5 Matrices: NaN%
+Percentage of Order 6 Matrices: NaN%
+
+There were no Order 1 Matrices
+There were no Order 2 Matrices
+There were no Order 3 Matrices
+There were no Order 4 Matrices
+There were no Order 5 Matrices
+There were no Order 6 Matrices
+
+
+Total Number of Lines Read in the Input File: 30
+
+Total Execution Time of the Program: 0 microseconds

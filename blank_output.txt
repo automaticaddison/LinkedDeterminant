@@ -1,0 +1,34 @@
+DETERMINANT OF A MATRIX RESULTS
+
+Author: Addison Sears-Collins
+----------------
+
+----------------------------------------
+DESCRIPTIVE STATISTICS
+----------------------------------------
+Total Number of Matrices Read: 0
+Number of Order 1 Matrices: 0
+Number of Order 2 Matrices: 0
+Number of Order 3 Matrices: 0
+Number of Order 4 Matrices: 0
+Number of Order 5 Matrices: 0
+Number of Order 6 Matrices: 0
+
+Percentage of Order 1 Matrices: NaN%
+Percentage of Order 2 Matrices: NaN%
+Percentage of Order 3 Matrices: NaN%
+Percentage of Order 4 Matrices: NaN%
+Percentage of Order 5 Matrices: NaN%
+Percentage of Order 6 Matrices: NaN%
+
+There were no Order 1 Matrices
+There were no Order 2 Matrices
+There were no Order 3 Matrices
+There were no Order 4 Matrices
+There were no Order 5 Matrices
+There were no Order 6 Matrices
+
+
+Total Number of Lines Read in the Input File: 1
+
+Total Execution Time of the Program: 0 microseconds
